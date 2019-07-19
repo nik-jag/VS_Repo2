@@ -6,7 +6,7 @@ namespace GitConsoleApp
     {
         static void Main()
         {
-            Console.WriteLine("Welcome to GitHub from Feature1 branch!");
+            Console.WriteLine("Welcome to GitHub from Feature1 branch in GitHub.com!");
         }
     }
 }
