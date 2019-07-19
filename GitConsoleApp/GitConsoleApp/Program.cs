@@ -6,7 +6,7 @@ namespace GitConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Welcome to GitHub!");
         }
     }
 }
